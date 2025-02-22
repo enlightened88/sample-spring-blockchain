@@ -1,4 +1,4 @@
-## Introduction to Blockchain with Java using Ethereum, web3j and Spring Boot  [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
+## Introduction to Blockchain with Java using Ethereum, web3j and Spring Boot  [![Twitter][(https://img.shields.io/twitter/follow/piotr_minkowski)](https://x.com/piotr_minkowski)
 
 [![CircleCI](https://circleci.com/gh/piomin/sample-spring-blockchain.svg?style=svg)](https://circleci.com/gh/piomin/sample-spring-blockchain)
 
